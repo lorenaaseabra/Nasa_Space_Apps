@@ -86,5 +86,13 @@ div.topBar {
 }
 
 div.logoCircle{
-    
+    width: 170px;
+    height: 170px;
+    border-radius: 50%; 
+    background-color: white;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: -5em;
 }
