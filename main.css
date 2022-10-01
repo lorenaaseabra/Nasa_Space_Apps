@@ -1,0 +1,106 @@
+*{
+    font-family: 'Raleway';
+}
+
+@media(max-width: 10000000000px){
+    body{
+        background-image: url("./assets/img_test.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media(max-width: 10px){
+    body{
+        background-image: url("./assets/Design sem nome.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+.main-header {
+    font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.main-footer{
+    color: #000;
+    background-image: url("./assets/space_picjpg");
+    text-align: center;
+    padding: 300px;
+
+}
+div.container4 {
+    height: 10em;
+    position: relative;
+    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 10s; /* don't forget to set a duration! */
+}
+div.container4 p {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
+div.logo {
+    height: 25em;
+    position: relative;
+}
+div.texto {
+    height: 10em;
+    position: relative;
+    animation: fadeInUp;
+    animation-duration: 10s;
+}
+div.texto p {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+    margin-top: -200px;
+}
+.main-texto {
+    font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: -200px;
+    animation: fadeIn;
+    animation-duration: 10s;
+}
+.main-footer ul a:hover {
+    color: white;
+}
+.main-footer ul a:visited {
+    color: white;
+}
+.main-footer ul {
+    list-style: none;
+    text-align: center;
+}
+.main-footer a {
+    text-decoration:dashed;
+    color:white;
+}
