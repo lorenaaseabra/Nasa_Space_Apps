@@ -113,7 +113,7 @@ div.bigDiv {
 
 }
 
-div.grayCircle{
+.grayCircle{
     width: 132px;
     height: 132px;
     border-radius: 50%; 
@@ -124,9 +124,16 @@ div.grayCircle{
     margin: 0 auto;
     margin-top: -30em;
     margin-right: 5em;
+    transition: transform .2s;
 
 }
-div.grayCircleMiddle{
+.grayCircle:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+.grayCircleMiddle{
     width: 132px;
     height: 132px;
     border-radius: 50%; 
@@ -137,9 +144,16 @@ div.grayCircleMiddle{
     margin: 0 auto;
     margin-top: 3em;
     margin-right: 5em;
+    transition: transform .2s;
 
 }
-div.grayCircleBottom{
+.grayCircleMiddle:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+.grayCircleBottom{
     width: 132px;
     height: 132px;
     border-radius: 50%; 
@@ -150,5 +164,11 @@ div.grayCircleBottom{
     margin: 0 auto;
     margin-top: 3em;
     margin-right: 5em;
+    transition: transform .2s;
 
+}
+.grayCircleBottom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
 }
