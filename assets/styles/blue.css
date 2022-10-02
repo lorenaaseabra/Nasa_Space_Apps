@@ -44,15 +44,13 @@ div.squareOne {
     height: 385px;
     border-radius: 5%; 
     border-width: 4px;
-    background-color: rgba(19, 70, 108, 0.572);
+    background-color: #44d3ffb6;
     margin: 50px;
     overflow: hidden;
     position: relative;
     margin: 0 auto;
-    margin-top: -2em;
-    margin-left: 34em;
-    margin-right: 300em;
-
+    overflow: hidden;
+    position: relative;
 }
 
 div.topBar {
@@ -81,7 +79,7 @@ div.logoMiddleCircle{
     width: 132px;
     height: 132px;
     border-radius: 50%; 
-    background-color: rgb(19, 70, 108);
+    background-color: #44d3ffb6;
     margin: 50px;
     overflow: hidden;
     position: relative;

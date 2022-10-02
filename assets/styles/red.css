@@ -43,7 +43,7 @@ div.squareOne {
     width: 450px;
     height: 385px;
     border-radius: 10%; 
-    background-color: red;
+    background-color: #ff7220bd;
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -80,7 +80,7 @@ div.logoMiddleCircle{
     width: 132px;
     height: 132px;
     border-radius: 50%; 
-    background-color: red;
+    background-color: #ff7220bd;
     margin: 50px;
     overflow: hidden;
     position: relative;
