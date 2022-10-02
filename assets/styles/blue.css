@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media(max-width: 10000000000px){
+    body{
+        background-image: url("../imgs/img_test.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media(max-width: 10px){
+    body{
+        background-image: url("../imgs/Design sem nome.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+.main-header {
+    font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.main-footer{
+    color: #000;
+    background-image: url("../imgs/space_picjpg");
+    text-align: center;
+    padding: 300px;
+}
+
+
+div.squareOne {
+    width: 450px;
+    height: 385px;
+    border-radius: 10%; 
+    background-color: blue;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: -2em;
+    margin-left: 34em;
+    margin-right: 300em;
+
+}
+
+div.topBar {
+    width: 1510px;
+    height: 120px;
+    border-radius: 0%; 
+    background-color: white;
+    margin: 0px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+}
+
+div.logoCircle{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%; 
+    background-color: white;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: -5em;
+}
+div.logoMiddleCircle{
+    width: 132px;
+    height: 132px;
+    border-radius: 50%; 
+    background-color: blue;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: -9.5em;
+}
+
+div.logoBar {
+    height: 1em;
+    position: relative;
+    margin-top: -12em;
+}
+
+div.bigDiv {
+    margin-top:300px;
+}
+
+.one-texto {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+
+}
