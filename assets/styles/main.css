@@ -92,17 +92,33 @@ div.texto p {
 .main-footer ul a:hover {
     color: white;
 }
-.main-footer ul a:visited {
+.main-footer  ul a:visited {
     color: white;
 }
-.main-footer ul {
+.main-footer  ul {
     list-style: none;
     text-align: center;
 }
-.main-footer a {
+.main-footer  a {
     text-decoration:dashed;
     color:white;
     background-color: #DD3B2E;
+    font-family: Georgia, serif;
+    font-size: 45px;
+    font-weight: 170;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    height: 50px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: -200em;
+    margin-left: -2em;
     
 }
 
