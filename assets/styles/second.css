@@ -184,7 +184,7 @@ div.logoMiddleCircle{
     width: 132px;
     height: 132px;
     border-radius: 50%; 
-    background-color: lightgrey;
+    background-image: url("../imgs/logo_2.png");
     margin: 50px;
     overflow: hidden;
     position: relative;

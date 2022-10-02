@@ -55,7 +55,7 @@ div.squareOne {
 }
 
 div.topBar {
-    width: 1510px;
+    width: auto;
     height: 120px;
     border-radius: 0%; 
     background-color: white;
@@ -124,7 +124,7 @@ div.bigDiv {
     width: 132px;
     height: 132px;
     border-radius: 50%; 
-    background-color: gray;
+    background-image: url("../imgs/gravidade_1.png");
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -144,7 +144,7 @@ div.bigDiv {
     width: 132px;
     height: 132px;
     border-radius: 50%; 
-    background-color: gray;
+    background-image: url("../imgs/gravidade_2.png");
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -164,7 +164,7 @@ div.bigDiv {
     width: 132px;
     height: 132px;
     border-radius: 50%; 
-    background-color: gray;
+    background-image: url("../imgs/gravidade_3.png");
     margin: 50px;
     overflow: hidden;
     position: relative;
