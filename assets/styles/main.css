@@ -106,7 +106,7 @@ div.texto p {
     color:white;
     background-color: #DD3B2E;
     font-family: Georgia, serif;
-    font-size: 45px;
+    font-size: 20px;
     font-weight: 170;
     letter-spacing: 2px;
     word-spacing: 2px;
@@ -116,9 +116,9 @@ div.texto p {
     font-style: normal;
     font-variant: normal;
     text-transform: none;
-    height: 50px;
+    height: 25px;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 22px;
     margin-top: -200em;
     margin-left: -1em;    
 }
