@@ -30,7 +30,7 @@
     font-variant: normal;
     text-transform: none;
 }
-.main-footer{
+.button_next{
     color: #000;
     text-align: center;
     padding: 300px;
@@ -89,17 +89,17 @@ div.texto p {
     animation: fadeIn;
     animation-duration: 10s;
 }
-.main-footer ul a:hover {
+.button_next ul a:hover {
     color: white;
 }
-.main-footer  ul a:visited {
+.button_next  ul a:visited {
     color: white;
 }
-.main-footer  ul {
+.button_next  ul {
     list-style: none;
     text-align: center;
 }
-.main-footer  a {
+.button_next  a {
     text-decoration:dashed;
     color:white;
     background-color: #DD3B2E;
@@ -118,7 +118,8 @@ div.texto p {
     padding: 15px;
     border-radius: 20px;
     margin-top: -200em;
-    margin-left: -2em;
-    
+    margin-left: -2em;    
 }
-
+.button_next{
+    margin-top: -300px;
+}
