@@ -43,7 +43,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%; 
-    background-color: greenyellow;
+    background-image: url("../imgs/sonda_parker.png");
     margin: 50px;
     overflow: hidden;
     position: relative;
