@@ -1,13 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 @media(max-width: 10000000000px){
     body{
-        background-image: url("./assets/img_test.jpg");
+        background-image: url("../imgs/img_test.jpg");
         background-repeat: no-repeat;
         background-size: cover;
     }
 }
 @media(max-width: 10px){
     body{
-        background-image: url("./assets/Design sem nome.png");
+        background-image: url("../imgs/Design sem nome.png");
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -28,7 +33,7 @@
 }
 .main-footer{
     color: #000;
-    background-image: url("./assets/space_picjpg");
+    background-image: url("../imgs/space_picjpg");
     text-align: center;
     padding: 300px;
 }
