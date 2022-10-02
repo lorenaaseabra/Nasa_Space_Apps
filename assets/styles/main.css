@@ -118,8 +118,13 @@ div.texto p {
     padding: 15px;
     border-radius: 20px;
     margin-top: -200em;
-    margin-left: -2em;    
+    margin-left: -1em;    
 }
 .button_next{
     margin-top: -300px;
+}
+.img_aratu{
+    display: flex;
+    justify-content: center;
+    margin-top: -200px;
 }
