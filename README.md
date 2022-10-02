@@ -72,6 +72,6 @@ https://www.nasa.gov/feature/goddard/2021/five-questions-about-space-weather-and
 | ----------------  | ------------------------------- |
 | Ana Luiza Motta   | mottaluizamarques@gmail.com     |
 | Débora Araí       | deborarejala.arai@gmail.com     |
-| Lorena Seabra     | gabrielparisio@hotmail.com      |
+| Lorena Seabra     | lorenamseabra@gmail.com         |
 | Marcela Azoubel   | marcela.azoubel@gmail.com       |
 | Rafael Alves      | rjhxalves@gmail.com             |
