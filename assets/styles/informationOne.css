@@ -39,20 +39,20 @@
 }
 
 
-div.circuloOne {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%; 
+div.squareOne {
+    width: 450px;
+    height: 385px;
+    border-radius: 10%; 
     background-color: red;
     margin: 50px;
     overflow: hidden;
     position: relative;
     margin: 0 auto;
-    margin-top: 10em;
-    margin-left: 20em;
+    margin-top: -2em;
+    margin-left: 34em;
+    margin-right: 300em;
 
 }
-
 
 div.topBar {
     width: 1510px;
@@ -98,3 +98,17 @@ div.bigDiv {
     margin-top:300px;
 }
 
+.one-texto {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+
+}
