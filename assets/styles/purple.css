@@ -112,3 +112,43 @@ div.bigDiv {
     text-transform: none;
 
 }
+
+div.grayCircle{
+    width: 132px;
+    height: 132px;
+    border-radius: 50%; 
+    background-color: gray;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: -30em;
+    margin-right: 5em;
+
+}
+div.grayCircleMiddle{
+    width: 132px;
+    height: 132px;
+    border-radius: 50%; 
+    background-color: gray;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 3em;
+    margin-right: 5em;
+
+}
+div.grayCircleBottom{
+    width: 132px;
+    height: 132px;
+    border-radius: 50%; 
+    background-color: gray;
+    margin: 50px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 3em;
+    margin-right: 5em;
+
+}
