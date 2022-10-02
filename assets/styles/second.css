@@ -42,6 +42,12 @@
     margin: 0 auto;
     margin-top: 20em;
     transition: transform .2s;
+    color:white;
+    text-align: center;
+    line-height: 600%;
+    text-decoration: none;
+    font-family: Georgia, serif;
+    text-transform: none;
 }
       
 .circuloMeio:hover {
@@ -62,6 +68,12 @@ div.circuloOne {
     margin-top: 10em;
     margin-left: 20em;
     transition: transform .2s;
+    color:white;
+    text-align: center;
+    line-height: 600%;
+    text-decoration: none;
+    font-family: Georgia, serif;
+    text-transform: none;
 }
 .circuloOne:hover {
     -ms-transform: scale(1.5); /* IE 9 */
@@ -81,6 +93,12 @@ div.circuloLast {
     margin-top: -6.4em;
     margin-right: 20em;
     transition: transform .2s;
+    color:white;
+    text-align: center;
+    line-height: 600%;
+    text-decoration: none;
+    font-family: Georgia, serif;
+    text-transform: none;
 
 }
 .circuloLast:hover {
@@ -101,6 +119,12 @@ div.circuloTwo {
     margin-top: -17em;
     margin-left: 29em;
     transition: transform .2s;
+    color:white;
+    text-align: center;
+    line-height: 600%;
+    text-decoration: none;
+    font-family: Georgia, serif;
+    text-transform: none;
 }
 .circuloTwo:hover {
     -ms-transform: scale(1.5); /* IE 9 */
@@ -120,6 +144,13 @@ div.circuloFour {
     margin-top: -6.2em;
     margin-right: 28em;
     transition: transform .2s;
+    color:white;
+    text-align: center;
+    line-height: 600%;
+    text-decoration: none;
+    font-family: Georgia, serif;
+    text-transform: none;
+    
 }
 .circuloFour:hover {
     -ms-transform: scale(1.5); /* IE 9 */
@@ -167,8 +198,10 @@ div.logoBar {
     margin-top: -12em;
 }
 
-div.bigDiv {
+div.bigDiv a {
     margin-top:300px;
+    text-decoration: none;
+
 }
 
 div.telescopio {
