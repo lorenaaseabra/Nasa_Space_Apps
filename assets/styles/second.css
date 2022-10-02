@@ -35,7 +35,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%; 
-    background-image: url("../imgs/sonda_parker.png");
+    background-color:#7bfd4cb9;
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -54,7 +54,7 @@ div.circuloOne {
     width: 100px;
     height: 100px;
     border-radius: 50%; 
-    background-image: url("../imgs/atmosfera_solar.png");
+    background-color: #ff7220bd;
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -73,7 +73,7 @@ div.circuloLast {
     width: 100px;
     height: 100px;
     border-radius: 50%; 
-    background-image: url("../imgs/gravidade.png");
+    background-color:#cc7affae;
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -93,7 +93,7 @@ div.circuloTwo {
     width: 100px;
     height: 100px;
     border-radius: 50%; 
-    background-image: url("../imgs/vento_solar.png");
+    background-color: #fff823b0 ;
     margin: 50px;
     overflow: hidden;
     position: relative;
@@ -112,7 +112,7 @@ div.circuloFour {
     width: 100px;
     height: 100px;
     border-radius: 50%; 
-    background-image: url("../imgs/aurora_boreal.png");
+    background-color: #44d3ffb6;
     margin: 50px;
     overflow: hidden;
     position: relative;

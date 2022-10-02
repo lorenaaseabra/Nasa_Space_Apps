@@ -42,7 +42,7 @@
 div.squareOne {
     width: 450px;
     height: 385px;
-    border-radius: 5%; 
+    border-radius: 2%; 
     border-width: 4px;
     background-color: #44d3ffb6;
     margin: 50px;
@@ -99,7 +99,7 @@ div.bigDiv {
 
 .one-texto {
     font-family: Georgia, serif;
-    font-size: 20px;
+    font-size: 15px;
     letter-spacing: 2px;
     word-spacing: 2px;
     color: white;
